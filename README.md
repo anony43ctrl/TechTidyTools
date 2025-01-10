@@ -1,5 +1,5 @@
 # TechTidyTools
-Simplify, Automate, and Organize Your PC with Small but Mighty Programs 🚀
+Simplify, , and Organize Your PC with Small but Mighty Programs 🚀
 
 Welcome to TechTidyTools, a collection of small yet powerful C++ utility programs designed to make managing your computer easier. From cleaning files by date ranges to automating tedious tasks, these tools are lightweight, fast, and effective. These utilities are here to streamline your workflow and help you keep your system tidy.
 
